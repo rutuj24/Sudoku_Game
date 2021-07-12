@@ -15,5 +15,5 @@ The grid will be checked if it is correct <br>
 If correct a solution will be generated and displayed<br><br><br>
 
 Copy and Paste the code in your IDE<br>
-Download the text file and check path in code<br> 
+Check name and path of text file in code<br> 
 Link the required .h files
